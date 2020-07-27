@@ -13,4 +13,5 @@ def find_min_in_nested_arrays(src)
     results.push(min)
     row_index += 1
   end 
+  results
 end
